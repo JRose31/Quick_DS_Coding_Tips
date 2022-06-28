@@ -88,7 +88,7 @@ matches
 
 
 
-While this yeilds the desired output, the next solution is 40% faster and more readable.<br>
+While this yields the desired output, the next solution is 40% faster and more readable.<br>
 
 ---
 
